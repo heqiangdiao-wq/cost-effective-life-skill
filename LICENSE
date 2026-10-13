@@ -1,0 +1,40 @@
+This is free and unencumbered software released into the public domain.
+
+Anyone is free to copy, modify, publish, use, compile, sell, or
+distribute this software, either in source code form or as a compiled
+binary, for any purpose, commercial or non-commercial, and by any
+means.
+
+In jurisdictions that recognize copyright laws, the author or authors
+of this software dedicate any and all copyright interest in the
+software to the public domain. We make this dedication for the benefit
+of the public at large and to the detriment of our heirs and
+successors. We intend this dedication to be an overt act of
+relinquishment in perpetuity of all present and future rights to this
+software under copyright law.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+IN NO EVENT SHALL THE AUTHORS BE LIABLE FOR ANY CLAIM, DAMAGES OR
+OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,
+ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
+OTHER DEALINGS IN THE SOFTWARE.
+
+For more information, please refer to <https://unlicense.org>
+
+------------------------------------------------------------------------
+
+适用范围说明（中文）
+
+本许可适用于本技能原创的部分：
+  - SKILL.md 的判定流程、降门槛流程与输出格式
+  - references/hacks.md（流行说法验伪表）
+  - references/downgrade.md（降门槛规则）
+  - references/topics.md 与 references/evidence.md 的整理工作
+  - README.md 与 agents/openai.yaml
+
+不包括 references/guide/ 目录下的内容。该目录是《高性价比人生指南》
+正文的同步快照，来自 https://github.com/eternity4719/HowToLiveBetter ，
+按其上游许可 CC BY 4.0 使用，完整许可见 references/guide/LICENSE 。
+传播或改编该部分时须保留署名、来源与许可，并注明修改情况。
